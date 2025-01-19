@@ -171,6 +171,23 @@ header{
 	margin: 0;
 }
 /*feature end*/
+/*footer start*/
+.footer{
+	height: 100px;
+	background-color: #008AFF;
+	
+}
+.foot{
+	padding-top: 70px;
+	margin: 0px;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+	font-family: sans-serif;
+	font-weight: 400;
+}
+
+/*footer start*/
 
 
 
