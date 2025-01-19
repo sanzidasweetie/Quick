@@ -1,1 +1,1 @@
-# Quick
+ https://sanzidasweetie.github.io/Quick/
